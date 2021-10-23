@@ -1,4 +1,4 @@
 const fs = require('fs');	//file system
 
 fs.writeFileSync("./1.txt", "abc");
-console.log("bao")
+console.log("dong")
